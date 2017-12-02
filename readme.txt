@@ -1,4 +1,4 @@
-Git is a distributed version control system.
+test other branch push
 Git is free software under the GPL.
 nihao woshi master
 nihao woshi master1
@@ -11,4 +11,4 @@ date 12181
 issue-101
 test stash
 test stash1
-test other branch push
+Git is a distributed version control system.
