@@ -4,4 +4,4 @@ git 3rd
 git 4th
 git 5th
 git 6th
-create a new branch is easy & simple
+create a new branch is easy and simple
