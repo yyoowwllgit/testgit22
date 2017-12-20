@@ -15,3 +15,4 @@ test stash1
 Git is a distributed version control system.
 twotwotwotwo
 pull merge after
+pull merge rebase
